@@ -1,0 +1,6 @@
+{
+    "name": "event-sourcing-app",
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
